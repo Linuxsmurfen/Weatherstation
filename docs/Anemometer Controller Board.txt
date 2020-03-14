@@ -1,0 +1,20 @@
+Product Description
+
+Hobby Boards’ Anemometer Controller board was designed for use with our anemometer solutions, but can be used as a general counter or single channel A/D.
+
+Controller
+
+    -The Hobby Boards’ Anemometer board uses the Dallas DS2423 and DS2438 1-Wire chips.
+    -Dual 32-bit counters.
+    -Count frequency of up to 2kHz.
+    -A/D will support input voltages up to 10VDC.
+
+Connections
+
+    -1-Wire connections are made through a dual RJ45 jack with pass-through capability or the available screw terminals for easy connectivity to your 1-Wire network.
+    -Power is supplied through CAT5 cable connected to the RJ45 jack or through the screw terminal.
+
+Power Requirements
+
+    -The maximum power draw is 5mA at +7v DC (board only).
+
