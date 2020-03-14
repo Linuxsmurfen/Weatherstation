@@ -1,0 +1,30 @@
+Todo
+------------------------------------------------------------------
+
+
+
+
+Supported devices
+------------------------------------------------------------------
+Temp                        1-wire,  DS1820
+Rain                        interupts, counter
+Windspeed inspeed/vortex    interupts, counter
+Winddir   inspeed/vortex    ADC
+Humidity+Pressure+Temp      i2c, BME280
+
+
+Features
+------------------------------------------------------------------
+Over the air update
+Send data to wunderground
+Send data over mqtt
+
+
+Inspiration
+------------------------------------------------------------------
+http://www.switchdoc.com/weatherpiarduino-bare-board/
+https://wunderweatherstation.wordpress.com/stations/
+http://cactus.io/projects/weather/arduino-weather-station
+https://github.com/bonjour81/station_meteo
+https://github.com/bonjour81/ESP8266-MQTT-WEEWX/wiki/Wind-direction-sensor
+https://www.youtube.com/watch?v=emE6yWWQUHg
