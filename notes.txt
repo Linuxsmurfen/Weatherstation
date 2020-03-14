@@ -11,7 +11,12 @@ Rain                        interupts, counter
 Windspeed inspeed/vortex    interupts, counter
 Winddir   inspeed/vortex    ADC
 Humidity+Pressure+Temp      i2c, BME280
+(Air Quality)
+(Lightining)
 
+Inspeed Vortex, read switch sensor
+Inspeed E-Vane 2
+tipping bucket rain gauge
 
 Features
 ------------------------------------------------------------------
