@@ -1,0 +1,7 @@
+Rain counter
+
+This is the RAINEW rain gauge by RainWise, with our 1-Wire Dual Counter installed. 
+The 8" diameter collector meets National Weather Service (NWS) specifications for statistical accuracy. 
+Every time the bucket tips, a count is transmitted to the counter device and the gauge empties. 
+Unlike manual rain gauges, our tipping rain gauge never has to be emptied. 
+Each tip of the bucket counts 0.01 inches (approximately 0.25 mm) of rain.
